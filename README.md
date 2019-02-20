@@ -1,4 +1,5 @@
 # kivy-imagetogglebutton
+![screenshot](https://raw.githubusercontent.com/olivier-boesch/garden.imagetogglebutton/master/screenshot_toggle.png)
 ## What is about ?
 A imagetogglebutton widget for kivy with default shapes. run __init__.py to see an example running. default shapes of button are provided (round, square, rounded square with or without line)
 
