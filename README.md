@@ -3,6 +3,8 @@
 ## What is about ?
 A imagetogglebutton widget for kivy with default shapes. run __init__.py to see an example running. default shapes of button are provided (round, square, rounded square with or without line)
 
+see it in action : https://youtu.be/CCHtq3coogg
+
 same concepts as the led widget : https://github.com/olivier-boesch/garden.led
 
 ## properties
